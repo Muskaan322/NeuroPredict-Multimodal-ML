@@ -36,7 +36,7 @@ The script will generate the dataset, train the models, and save all results to 
 ### 1. Model Benchmarking
 We compared Logistic Regression (LR), Random Forest (RF), and Gradient Boosting (GB). While RF and GB show signs of overfitting on training data (AUC=1.0), the 5-fold cross-validation reveals a more realistic generalization performance.
 
-![Model Comparison](images/fig1_model_comparison.png)
+![Model Comparison](https://github.com/Muskaan322/NeuroPredict-Multimodal-ML/blob/main/fig1_model_comparison.png)
 
 ### 2. Feature Importance & Modalities
 The analysis identifies **Kinematics** (Step symmetry and Gait speed) as the most influential modality, followed by **DTI** (CST integrity). This suggests that biomechanical performance is a strong indicator of overall neuromodulation response.
