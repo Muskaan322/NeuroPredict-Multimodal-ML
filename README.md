@@ -58,7 +58,7 @@ The ablation study quantifies the "value-add" of each data type. Removing **Kine
 
 ![Modality Ablation](https://github.com/Muskaan322/NeuroPredict-Multimodal-ML/blob/main/fig5_modality_ablation.png)
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 main.py: The complete executable pipeline (data gen, training, and plotting).
 
